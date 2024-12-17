@@ -1,0 +1,36 @@
+---
+title: "Tharvesh Liyakat"
+image: "tharv.jpg"
+links:
+  - label: LinkedIn
+    url: "www.linkedin.com/in/tmali"
+  - label: BlueSky
+    url: "https://bsky.app/profile/tharv74.bsky.social"
+  - label: GitHub
+    url: "https://github.com/tharvesh"
+  - label: Email
+    url: "mailto:tharveshliyakat@gmail.com"
+output:
+  postcards::solana
+---
+
+## Who am I professionally?
+
+As a Bioinformatics Scientist at Genentech, I specialize in developing cutting-edge bioinformatics workflows for cell and gene therapies. With over 10 years of experience in the bioinformatics field, including more than 5 years focused on developing and validating computational algorithms for personalized cancer vaccine (PCV) design and manufacturing, I bring a deep understanding of the intersection between computational biology and therapeutic innovation. Some of the algorithms developed for the PCV are now being used in clinical trials, further underscoring the impact of my work in advancing cancer treatment.
+
+My core expertise lies in bioinformatics, data engineering, and data analysis, where I apply my skills to solve complex biological problems and drive the development of next-generation therapies. Additionally, I am experienced in computational system validation and ensuring algorithm development meets rigorous regulatory compliance standards.
+
+## Experience
+
+**Scientist, Bioinformatics process development** - *Genentech, USA* - January 2023 - Present
+
+**Senior bioinformatics scientist** - *Nykode therapeutics, Norway* - March 2020 - December 2022
+
+**Bioinformatics research assistant** - *CNRS, France* - March 2015 - February 2017
+
+## Education
+
+**PhD Bioinformatics** - *University of Oslo, Norway* - 2017 - 2020
+
+**M.Sc Bioinformatics** - *Institute of Bioinformatics and Applied Biotechnology, India* - 2012 - 2014
+
